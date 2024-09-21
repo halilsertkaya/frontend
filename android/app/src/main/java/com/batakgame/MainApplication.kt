@@ -1,4 +1,4 @@
-package com.batakgame
+package com.tarotbasic
 
 import android.app.Application
 import com.facebook.react.PackageList

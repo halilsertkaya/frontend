@@ -77,9 +77,9 @@ android {
     buildToolsVersion rootProject.ext.buildToolsVersion
     compileSdk rootProject.ext.compileSdkVersion
 
-    namespace "com.batakgame"
+    namespace "com.tarotbasic"
     defaultConfig {
-        applicationId "com.batakgame"
+        applicationId "com.tarotbasic"
         minSdkVersion rootProject.ext.minSdkVersion
         targetSdkVersion rootProject.ext.targetSdkVersion
         versionCode 1
